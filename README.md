@@ -59,7 +59,7 @@ Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankunapuli&color=green&style=flat-square" alt="kirankunapuli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunapulikiran&color=green&style=flat-square" alt="kunapulikiran" /> </p>
 
 [website]: https://kirankunapuli.github.io/
 [twitter]: https://twitter.com/KiranKunapuli
