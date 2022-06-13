@@ -52,9 +52,6 @@ Ranked among top 50 in user rankings on Analytics Vidhya. Best rank 35 out of 8,
 [<img align="left" alt="LinkedIn" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaggle" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="Medium" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][medium]
-[<img align="left" alt="Youtube" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitch" width="30px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
     
 <br>
 <br>
